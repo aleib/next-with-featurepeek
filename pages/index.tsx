@@ -14,7 +14,7 @@ export const Home = (): JSX.Element => (
 
       <p className="description">
         You&apos;ve just started a new Next.js project with deployment previews
-        enhanced by{' '}
+        enhanced with{' '}
         <a
           href="https://featurepeek.com"
           target="_blank"
@@ -34,8 +34,8 @@ export const Home = (): JSX.Element => (
         >
           <h3>Documentation &rarr;</h3>
           <p>
-            You&apos;ve automated the first 3 steps &mdash; just a few more
-            to complete the integration.
+            You&apos;ve automated the first 3 steps &mdash; just a few more to
+            complete the integration.
           </p>
         </a>
       </div>
